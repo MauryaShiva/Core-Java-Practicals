@@ -39,10 +39,9 @@ To run this project, you will need to set up your local environment by following
 Open your terminal or command prompt and run the following command:
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/MauryaShiva/Core-Java-Practicals.git
 ```
 
-*Replace `[your-repository-url]` with the actual URL of your GitHub repository.*
 
 ### **2. Import into Your IDE**
 
